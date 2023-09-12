@@ -1,6 +1,6 @@
 ### Saudações!
 
-Sou um Desenvolvedor Full-Stack apaixonado na resolução de problemas. Minhas especialidades técnicas fazem parte de tecnologias como NestJS, TypeScript, Express.js, Prsiam, Docker, Node, ReactJs, Styled-components, PostgreSQL, MongoDB, além de metedologias agéis (Scrum, Kanban) e ferramentas como Git, Trello, Discord, Zoom, por fim escolhi o fascinante caminho do desenvolvimento Full-Stack.
+Sou um Desenvolvedor Full-Stack apaixonado na resolução de problemas. Minhas especialidades técnicas fazem parte de tecnologias como NestJS, TypeScript, Express.js, Prisma, Docker, Node, ReactJs, Styled-components, PostgreSQL, MongoDB, além de metedologias agéis (Scrum, Kanban) e ferramentas como Git, Trello, Discord, Zoom, por fim escolhi o fascinante caminho do desenvolvimento Full-Stack.
 
 Estou há dois anos de imersão nesse mundo, tracei uma jornada repleta de projetos marcantes, entre cursos realizados e projetos para pequenos clientes.
 
