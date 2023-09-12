@@ -1,12 +1,12 @@
 ### Saudações!
 
-Sou um Desenvolvedor Full-Stack apaixonado na resolução de problemas. Com meu DNA embutido em tecnologias como Node.js, Express.js, ReactJs, Styled-components, PostgreSQL, MongoDB, e outras, escolhi o fascinante caminho do desenvolvimento Full-Stack.
+Sou um Desenvolvedor Full-Stack apaixonado na resolução de problemas. Minhas especialidades técnicas fazem parte de tecnologias como NestJS, TypeScript, Express.js, Prsiam, Docker, Node, ReactJs, Styled-components, PostgreSQL, MongoDB, além de metedologias agéis (Scrum, Kanban) e ferramentas como Git, Trello, Discord, Zoom, por fim escolhi o fascinante caminho do desenvolvimento Full-Stack.
 
-Estou há dois anos de imersão nesse mundo, tracei uma jornada repleta de projetos marcantes, tanto em cursos quanto trabalhando como freelancer
+Estou há dois anos de imersão nesse mundo, tracei uma jornada repleta de projetos marcantes, entre cursos realizados e projetos para pequenos clientes.
 
-Desde a adolescência, soube que meu destino estava interligado à tecnologia. Fóruns, leituras e incursões autodidatas, todos alimentaram meu desejo insaciável de estar à frente nesse mercado em constante efervescência.
+Desde a adolescência, soube que meu destino estava interligado à tecnologia. Fóruns, leituras e incursões autodidatas, todos alimentaram meu desejo insaciável de estar à frente nesse mercado em constante evolução.
 
-Na jornada, surgiu um desvio: responsabilidades financeiras me forçaram a trilhar um caminho diferente inicialmente, mas as paixões verdadeiras não se extinguem. E agora, e após quase uma década sólida no serviço público, decidi retomar meu rumo original. A transição foi audaciosa - mergulhei de cabeça em cursos e bootcamps, recarregando-me com as tecnologias da atualidade.
+Nessa jornada, surgiu um desvio: responsabilidades financeiras me forçaram a trilhar um caminho diferente inicialmente, mas as paixões verdadeiras não se extinguem. E agora, e após quase uma década sólida no serviço público, decidi retomar meu rumo original. A transição foi audaciosa, difícil e cansativa, mas a cada pequena evolução, um novo aprendizado a recompensa era imediata - mergulhei de cabeça em cursos intensivos com as tecnologias mais atualizadas.
 
 Tenho uma filosofia: com determinação, posso decifrar qualquer código, exceto se não tiver café na dispensa.
 
